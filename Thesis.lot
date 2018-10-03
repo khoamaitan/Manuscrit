@@ -1,0 +1,33 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Implementation of the proposed algorithm\relax }}{23}{table.caption.91}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Precision representation of two criteria before and after propagation at 10\%, 50\% and 100\% on the sequence Rubberwhale according to the "sparsification" measure\relax }}{27}{table.caption.99}
+\contentsline {table}{\numberline {2.3}{\ignorespaces The contribution of each criteria on "mixture" on 8 sequences of Middlebury dataset at 1st pyramidal level and 12th warp iteration.\relax }}{27}{table.caption.100}
+\contentsline {table}{\numberline {2.4}{\ignorespaces Computation times (in seconds) of the methods under consideration.\relax }}{30}{table.caption.105}
+\contentsline {table}{\numberline {2.5}{\ignorespaces Performance of the compared criteria under sorting strategy in the Middlebury database.\relax }}{31}{table.caption.107}
+\contentsline {table}{\numberline {2.6}{\ignorespaces Performance of the compared criteria under grid strategy in the Middlebury database.\relax }}{31}{table.caption.107}
+\contentsline {table}{\numberline {2.7}{\ignorespaces Performance of the compared methods in the Middlebury database.\relax }}{31}{table.caption.107}
+\contentsline {table}{\numberline {2.8}{\ignorespaces Performance of our method with the others on submitted sequences.\relax }}{31}{table.caption.107}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Development of optical flow norm based on 3 predefined planes. \relax }}{39}{table.caption.121}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Procedure used to create the $uv$-velocity voting spaces. \relax }}{42}{table.caption.125}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Sum-up of the relationships between $uv$ and $xy$, for the three categories of planar surfaces.\relax }}{44}{table.caption.130}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Simplified relationships between $uv$ and $xy$\relax }}{45}{table.caption.131}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Procedure used to create the ${\bf U}$ and ${\bf V}$ voting spaces. \relax }}{47}{table.caption.133}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Relationships between $uv$ and $xy$ in the special cas of the $uv$-disparity.\relax }}{48}{table.caption.135}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Overview of equations on each type of plan.\relax }}{51}{table.caption.140}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Overview of equations on each type of plan.\relax }}{52}{table.caption.142}
+\contentsline {table}{\numberline {3.9}{\ignorespaces Comparison between voting space of $c$-velocity and $uv$-velocity .\relax }}{54}{table.caption.147}
+\contentsline {table}{\numberline {3.10}{\ignorespaces Parabola parameter estimation for $c$-velocity. \relax }}{55}{table.caption.151}
+\contentsline {table}{\numberline {3.11}{\ignorespaces Parabola parameter estimation for $uv$-velocity. \relax }}{58}{table.caption.160}
+\contentsline {table}{\numberline {3.12}{\ignorespaces Line parameter estimation for uv-velocity. \relax }}{59}{table.caption.162}
+\contentsline {table}{\numberline {3.13}{\ignorespaces The used reference value to segment pixel into planar surface \relax }}{59}{table.caption.164}
+\contentsline {table}{\numberline {3.14}{\ignorespaces Dominant sign of and on each quadrant in two case: $T_Z > 0$ (a) and $T_Z < 0$ (b).\relax }}{60}{table.caption.166}
+\contentsline {table}{\numberline {3.15}{\ignorespaces Procedure used for RANSAC estimation of the three parameters A, B, C of the parabola. \relax }}{63}{table.caption.175}
+\contentsline {table}{\numberline {3.16}{\ignorespaces The detail of memory usage, number of operators and execution time for $c$-velocity and $uv$-velocity for the simulation experiments for an image size $800 \times 600$.\relax }}{68}{table.caption.184}
+\contentsline {table}{\numberline {3.17}{\ignorespaces The detail of average memory usage, operator and execution time of $c$-velocity and $uv$-velocity for the real sequence experiments with image size $1242 \times 375$.\relax }}{75}{table.caption.202}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Parameter $P$ found by ground truth optical flow and estimated one\relax }}{85}{table.caption.227}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Comparison the error between classical RF and new model RF\relax }}{87}{table.caption.232}
+\contentsline {table}{\numberline {4.3}{\ignorespaces RANSAC algorithm to estimate $H$\relax }}{97}{table.caption.269}
+\addvspace {10\p@ }

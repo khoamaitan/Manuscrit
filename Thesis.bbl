@@ -1,0 +1,669 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Adan \& Huber}{Adan \& Huber}{2011}]{Adan11}
+Adan A.,  Huber D.,  2011, in 2011 International Conference on 3D Imaging,
+  Modeling, Processing, Visualization and Transmission 3d reconstruction of
+  interior wall surfaces under occlusion and clutter.
+pp 275--281
+
+\bibitem[\protect\citeauthoryear{Aires}{Aires}{}]{Aires2008}
+Aires K. R.~T., , in IASTED Plane detection from monocular image sequences
+
+\bibitem[\protect\citeauthoryear{Alvarez, Weickert \& Sánchez}{Alvarez
+  et~al.}{}]{alvarez_reliable_nodate}
+Alvarez L.,  Weickert J.,    Sánchez J., , International Journal of Computer
+  Vision, 39, 41
+
+\bibitem[\protect\citeauthoryear{Amintabar \& Boufama}{Amintabar \&
+  Boufama}{2008}]{Amintabar08}
+Amintabar A.,  Boufama B.,  2008, in 2008 15th IEEE International Conference on
+  Image Processing Homography-based plane identification and matching.
+pp 297--300
+
+\bibitem[\protect\citeauthoryear{Aodha, Humayun, Pollefeys \& Brostow}{Aodha
+  et~al.}{2013}]{6261321}
+Aodha O.~M.,  Humayun A.,  Pollefeys M.,    Brostow G.~J.,  2013, IEEE
+  Transactions on Pattern Analysis and Machine Intelligence, 35, 1107
+
+\bibitem[\protect\citeauthoryear{Azuma, Sugimoto \& Okutomi}{Azuma
+  et~al.}{2010}]{azuma_egomotion_2010}
+Azuma T.,  Sugimoto S.,    Okutomi M.,  2010, in 2010 {IEEE} {Intelligent}
+  {Vehicles} {Symposium} Egomotion estimation using planar and non-planar
+  constraints.
+pp 855--862
+
+\bibitem[\protect\citeauthoryear{Bab-Hadiashar \& Suter}{Bab-Hadiashar \&
+  Suter}{}]{bab-hadiashar_robust_1998}
+Bab-Hadiashar A.,  Suter D., , International Journal of Computer Vision, 29
+
+\bibitem[\protect\citeauthoryear{Bai, Dong \& Su}{Bai
+  et~al.}{2015}]{bai_edge_2015}
+Bai X.,  Dong X.,    Su Y.,  2015, IEEE Signal Processing Letters, 22, 2209
+
+\bibitem[\protect\citeauthoryear{Bailer, Taetz \& Stricker}{Bailer
+  et~al.}{2017}]{bailer_optical_2017}
+Bailer C.,  Taetz B.,    Stricker D.,  2017, arXiv:1703.02563 [cs]
+
+\bibitem[\protect\citeauthoryear{Baker, Scharstein, Lewis, Roth, Black \&
+  Szeliski}{Baker et~al.}{2010}]{baker_database_2010}
+Baker S.,  Scharstein D.,  Lewis J.~P.,  Roth S.,  Black M.~J.,    Szeliski R.,
+   2010, International Journal of Computer Vision, 92, 1
+
+\bibitem[\protect\citeauthoryear{Bebis George;~Boyle}{Bebis}{2006}]{Bebis-2006}
+Bebis George;~Boyle R. P. B. K. D. R. P. N. A. M. G. P. V. Z. J. M. J. T. H.
+  M.~T.,  2006, Planar Surface Detection in Image Pairs Using Homographic
+  Constraints
+
+\bibitem[\protect\citeauthoryear{Bernini, Bertozzi, Castangia, Patander \&
+  Sabbatelli}{Bernini et~al.}{2014}]{6957799}
+Bernini N.,  Bertozzi M.,  Castangia L.,  Patander M.,    Sabbatelli M.,  2014,
+  in 17th International IEEE Conference on Intelligent Transportation Systems
+  (ITSC) Real-time obstacle detection using stereo vision for autonomous ground
+  vehicles: A survey.
+pp 873--878
+
+\bibitem[\protect\citeauthoryear{Besnerais \& Champagnat}{Besnerais \&
+  Champagnat}{2005a}]{FOLKI}
+Besnerais G.~L.,  Champagnat F.,  2005a, in IEEE International Conference on
+  Image Processing 2005 Vol.~1, Dense optical flow by iterative local window
+  registration.
+pp I--137
+
+\bibitem[\protect\citeauthoryear{Besnerais \& Champagnat}{Besnerais \&
+  Champagnat}{2005b}]{besnerais_dense_2005}
+Besnerais G.~L.,  Champagnat F.,  2005b, in {IEEE} {International} {Conference}
+  on {Image} {Processing} 2005 Vol.~1, Dense optical flow by iterative local
+  window registration.
+pp I--137--40
+
+\bibitem[\protect\citeauthoryear{Besse, Rother, Fitzgibbon \& Kautz}{Besse
+  et~al.}{2014}]{besse_pmbp:_2014}
+Besse F.,  Rother C.,  Fitzgibbon A.,    Kautz J.,  2014, International Journal
+  of Computer Vision, 110, 2
+
+\bibitem[\protect\citeauthoryear{Bigun, Granlund \& Wiklund}{Bigun
+  et~al.}{1991}]{bigun_multidimensional_1991}
+Bigun J.,  Granlund G.~H.,    Wiklund J.,  1991, IEEE Transactions on Pattern
+  Analysis and Machine Intelligence, 13, 775
+
+\bibitem[\protect\citeauthoryear{Black \& Anandan}{Black \&
+  Anandan}{1991}]{black_robust_1991}
+Black M.~J.,  Anandan P.,  1991, in , {IEEE} {Computer} {Society} {Conference}
+  on {Computer} {Vision} and {Pattern} {Recognition}, 1991. {Proceedings}
+  {CVPR} '91 Robust dynamic motion estimation over time.
+pp 296--302
+
+\bibitem[\protect\citeauthoryear{Black \& Anandan}{Black \&
+  Anandan}{1996a}]{black_robust_1996-1}
+Black M.~J.,  Anandan P.,  1996a, Computer Vision and Image Understanding, 63,
+  75
+
+\bibitem[\protect\citeauthoryear{Black \& Anandan}{Black \&
+  Anandan}{1996b}]{black_robust_1996}
+Black M.~J.,  Anandan P.,  1996b, Computer Vision and Image Understanding, 63,
+  75
+
+\bibitem[\protect\citeauthoryear{Borrmann, Elseberg, Lingemann \&
+  N{\"u}chter}{Borrmann et~al.}{2011}]{Borrmann2011}
+Borrmann D.,  Elseberg J.,  Lingemann K.,    N{\"u}chter A.,  2011, 3D
+  Research, 2, 3
+
+\bibitem[\protect\citeauthoryear{Bouchafa \& Zavidovique}{Bouchafa \&
+  Zavidovique}{2012}]{bouchafa_c-velocity:_2012}
+Bouchafa S.,  Zavidovique B.,  2012, International Journal of Computer Vision,
+  97, 148
+
+\bibitem[\protect\citeauthoryear{Bouguet}{Bouguet}{2000}]{bouguet_pyramidal_2000}
+Bouguet J.-y.,  2000, Intel Corporation, Microprocessor Research Labs
+
+\bibitem[\protect\citeauthoryear{Boykov \& Kolmogorov}{Boykov \&
+  Kolmogorov}{2001}]{GC}
+Boykov Y.,  Kolmogorov V.,  2001, in Figueiredo M.,  Zerubia J.,   Jain A.~K.,
+  eds, Energy Minimization Methods in Computer Vision and Pattern Recognition
+  An experimental comparison of min-cut/max-flow algorithms for energy
+  minimization in vision.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 359--374
+
+\bibitem[\protect\citeauthoryear{Brox, Bregler \& Malik}{Brox
+  et~al.}{2009}]{brox_large_2009}
+Brox T.,  Bregler C.,    Malik J.,  2009 Large displacement optical flow.
+IEEE, pp 41--48
+
+\bibitem[\protect\citeauthoryear{Brox, Bruhn, Papenberg \& Weickert}{Brox
+  et~al.}{2004}]{High_accuracy_brox}
+Brox T.,  Bruhn A.,  Papenberg N.,    Weickert J.,  2004, in Pajdla T.,  Matas
+  J.,  eds, Computer Vision - ECCV 2004 High accuracy optical flow estimation
+  based on a theory for warping.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 25--36
+
+\bibitem[\protect\citeauthoryear{Brox \& Malik}{Brox \&
+  Malik}{2011a}]{brox_large_2011}
+Brox T.,  Malik J.,  2011a, IEEE Transactions on Pattern Analysis and Machine
+  Intelligence, 33, 500
+
+\bibitem[\protect\citeauthoryear{Brox \& Malik}{Brox \& Malik}{2011b}]{Bro11a}
+Brox T.,  Malik J.,  2011b, IEEE Transactions on Pattern Analysis and Machine
+  Intelligence, 33, 500
+
+\bibitem[\protect\citeauthoryear{Brox \& Weickert}{Brox \&
+  Weickert}{2002}]{brox_nonlinear_2002}
+Brox T.,  Weickert J.,  2002, in Gool L.~V.,  ed., Lecture {Notes} in
+  {Computer} {Science}No.~2449, Pattern {Recognition}.
+Springer Berlin Heidelberg, pp 446--453
+
+\bibitem[\protect\citeauthoryear{Bruhn \& Weickert}{Bruhn \&
+  Weickert}{2006}]{Bruhn2006}
+Bruhn A.,  Weickert J.,  2006, A Confidence Measure for Variational Optic flow
+  Methods.
+Springer Netherlands, Dordrecht, pp 283--298
+
+\bibitem[\protect\citeauthoryear{Butler, Wulff, Stanley \& Black}{Butler
+  et~al.}{2012}]{Butler:ECCV:2012}
+Butler D.~J.,  Wulff J.,  Stanley G.~B.,    Black M.~J.,  2012, in {A.
+  Fitzgibbon et al. (Eds.)} ed., European Conf. on Computer Vision (ECCV) Part
+  IV, LNCS 7577, A naturalistic open source movie for optical flow evaluation.
+Springer-Verlag, pp 611--625
+
+\bibitem[\protect\citeauthoryear{Castro \& Morandi}{Castro \&
+  Morandi}{1987}]{4767966}
+Castro E.~D.,  Morandi C.,  1987, IEEE Transactions on Pattern Analysis and
+  Machine Intelligence, PAMI-9, 700
+
+\bibitem[\protect\citeauthoryear{{Ce Liu}, Yuen \& Torralba}{{Ce Liu}
+  et~al.}{2011}]{ce_liu_sift_2011}
+{Ce Liu} Yuen J.,    Torralba A.,  2011, IEEE Transactions on Pattern Analysis
+  and Machine Intelligence, 33, 978
+
+\bibitem[\protect\citeauthoryear{Cheda, Ponsa \& Pe{\~n}a}{Cheda
+  et~al.}{2012}]{Cheda2012MonocularEE}
+Cheda D.,  Ponsa D.,    Pe{\~n}a A. M.~L.,  2012, in ICPRAM Monocular egomotion
+  estimation based on image matching
+
+\bibitem[\protect\citeauthoryear{Chen, Jin, Lin, Cohen \& Wu}{Chen
+  et~al.}{2013}]{chen_large_2013}
+Chen Z.,  Jin H.,  Lin Z.,  Cohen S.,    Wu Y.,  2013 Large {Displacement}
+  {Optical} {Flow} from {Nearest} {Neighbor} {Fields}.
+IEEE, pp 2443--2450
+
+\bibitem[\protect\citeauthoryear{Chhaniyara, Althoefer \&
+  Seneviratne}{Chhaniyara et~al.}{2008}]{surrey834700}
+Chhaniyara S.,  Althoefer K.,    Seneviratne L.,  2008, in Marques L.,  Almeida
+  A.,   Tokhi M.,  eds, No.~17, Advances in mobile robotics.
+World Scientific Pub Co Inc, pp 1069 -- 1076
+
+\bibitem[\protect\citeauthoryear{Conrad \& DeSouza}{Conrad \&
+  DeSouza}{2010}]{Conrad10}
+Conrad D.,  DeSouza G.~N.,  2010, in 2010 IEEE International Conference on
+  Robotics and Automation Homography-based ground plane detection for mobile
+  robot navigation using a modified em algorithm.
+pp 910--915
+
+\bibitem[\protect\citeauthoryear{DeCarlo \& Metaxas}{DeCarlo \&
+  Metaxas}{2000}]{DeCarlo2000}
+DeCarlo D.,  Metaxas D.,  2000, International Journal of Computer Vision, 38,
+  99
+
+\bibitem[\protect\citeauthoryear{Duda \& Hart}{Duda \&
+  Hart}{1972}]{Duda:1972:UHT:361237.361242}
+Duda R.~O.,  Hart P.~E.,  1972, Commun. ACM, 15, 11
+
+\bibitem[\protect\citeauthoryear{Farneback}{Farneback}{2000}]{farneback_fast_2000}
+Farneback G.,  2000 Vol.~1, Fast and accurate motion estimation using
+  orientation tensors and parametric motion models.
+IEEE Comput. Soc, pp 135--139
+
+\bibitem[\protect\citeauthoryear{Farneb{\"a}ck}{Farneb{\"a}ck}{2003}]{Farnebäck2003}
+Farneb{\"a}ck G.,  2003, Two-Frame Motion Estimation Based on Polynomial
+  Expansion.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 363--370
+
+\bibitem[\protect\citeauthoryear{Faugeras \& Lustman}{Faugeras \&
+  Lustman}{1988}]{faugeras:inria-00075698}
+Faugeras O.,  Lustman F.,  1988, Technical Report RR-0856, {Motion and
+  structure from motion in a piecewise planar environment},
+  \verb+https://hal.inria.fr/inria-00075698+.
+{INRIA}
+
+\bibitem[\protect\citeauthoryear{Fischler \& Bolles}{Fischler \&
+  Bolles}{1981}]{Fischler:1981:RSC:358669.358692}
+Fischler M.~A.,  Bolles R.~C.,  1981, Commun. ACM, 24, 381
+
+\bibitem[\protect\citeauthoryear{Fleet, Black, Yacoob \& Jepson}{Fleet
+  et~al.}{2000}]{fleet_design_2000}
+Fleet D.~J.,  Black M.~J.,  Yacoob Y.,    Jepson A.~D.,  2000, International
+  Journal of Computer Vision, 36, 171
+
+\bibitem[\protect\citeauthoryear{Foroosh, Zerubia \& Berthod}{Foroosh
+  et~al.}{2002}]{988953}
+Foroosh H.,  Zerubia J.~B.,    Berthod M.,  2002, IEEE Transactions on Image
+  Processing, 11, 188
+
+\bibitem[\protect\citeauthoryear{Forssen}{Forssen}{2007}]{forssen_maximally_2007}
+Forssen P.-E.,  2007 Maximally {Stable} {Colour} {Regions} for {Recognition}
+  and {Matching}.
+IEEE, pp~1--8
+
+\bibitem[\protect\citeauthoryear{Forster, Pizzoli \& Scaramuzza}{Forster
+  et~al.}{2014}]{6906584}
+Forster C.,  Pizzoli M.,    Scaramuzza D.,  2014, in 2014 IEEE International
+  Conference on Robotics and Automation (ICRA) Svo: Fast semi-direct monocular
+  visual odometry.
+pp 15--22
+
+\bibitem[\protect\citeauthoryear{Garrigues \& Manzanera}{Garrigues \&
+  Manzanera}{2017}]{MatthieuFastSemi}
+Garrigues M.,  Manzanera A.,  2017, in 2017 IEEE Winter Conference on
+  Applications of Computer Vision (WACV) Fast semi dense epipolar flow
+  estimation.
+pp 427--435
+
+\bibitem[\protect\citeauthoryear{Giachetti \& Torre}{Giachetti \&
+  Torre}{1996}]{giachetti_refinement_1996}
+Giachetti A.,  Torre V.,  1996, in In {ECCV}96 Refinement of {Optical} {Flow}
+  {Estimation} and {Detection} of {Motion} {Edges}.
+pp 151--160
+
+\bibitem[\protect\citeauthoryear{Gros, Bournez \& Boyer}{Gros
+  et~al.}{1998}]{gros98}
+Gros P.,  Bournez O.,    Boyer E.,  1998, {Computer Vision and Image
+  Understanding}, 69, 135
+
+\bibitem[\protect\citeauthoryear{G{\"u}ney \& Geiger}{G{\"u}ney \&
+  Geiger}{2016}]{Guney2016ACCV}
+G{\"u}ney F.,  Geiger A.,  2016, in Asian Conference on Computer Vision (ACCV)
+  Deep discrete flow
+
+\bibitem[\protect\citeauthoryear{Hartley \& Zisserman}{Hartley \&
+  Zisserman}{2003}]{Hartley:2003:MVG:861369}
+Hartley R.,  Zisserman A.,  2003, Multiple View Geometry in Computer Vision, 2
+  edn.
+Cambridge University Press, New York, NY, USA
+
+\bibitem[\protect\citeauthoryear{Horn \& Schunck}{Horn \&
+  Schunck}{1981}]{horn_determining_1981}
+Horn B.~K.,  Schunck B.~G.,  1981, Artificial Intelligence, 17, 185
+
+\bibitem[\protect\citeauthoryear{Horn \& Weldon}{Horn \&
+  Weldon}{1988}]{Horn1988}
+Horn B. K.~P.,  Weldon E.~J.,  1988, International Journal of Computer Vision,
+  2, 51
+
+\bibitem[\protect\citeauthoryear{Hough}{Hough}{1962}]{hough1962method}
+Hough P.~V., , 1962, Method and means for recognizing complex patterns
+
+\bibitem[\protect\citeauthoryear{Imiya \& Fermin}{Imiya \&
+  Fermin}{1999}]{Imiya99}
+Imiya A.,  Fermin I.,  1999, Image and Vision Computing, 17, 867
+
+\bibitem[\protect\citeauthoryear{Irani \& Anandan}{Irani \&
+  Anandan}{2000}]{10.1007/3-540-44480-7_18}
+Irani M.,  Anandan P.,  2000, in Triggs B.,  Zisserman A.,   Szeliski R.,  eds,
+  Vision Algorithms: Theory and Practice About direct methods.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 267--277
+
+\bibitem[\protect\citeauthoryear{Jähne, Haussecker \& Geissler}{Jähne
+  et~al.}{1999}]{jahne_handbook_1999}
+Jähne B.,  Haussecker H.,    Geissler P.,  1999, Handbook of {Computer}
+  {Vision} and {Applications}: {Signal} processing and pattern recognition.
+No. Vol. 2 in Handbook of {Computer} {Vision} and {Applications}, Academic
+  Press
+
+\bibitem[\protect\citeauthoryear{Jin Zhi;~Tillo}{Jin}{2014}]{Jin-2014}
+Jin Zhi;~Tillo T. C.~F.,  2014 Planar surfaces detection on depth map using
+  patch based approach
+
+\bibitem[\protect\citeauthoryear{{Kaiming He} \& {Jian Sun}}{{Kaiming He} \&
+  {Jian Sun}}{2012}]{kaiming_he_computing_2012}
+{Kaiming He} {Jian Sun} 2012 Computing nearest-neighbor fields via
+  {Propagation}-{Assisted} {KD}-{Trees}.
+IEEE, pp 111--118
+
+\bibitem[\protect\citeauthoryear{Kim, Lee \& Lee}{Kim
+  et~al.}{2013}]{kim_optical_2013}
+Kim T.~H.,  Lee H.~S.,    Lee K.~M.,  2013 Optical {Flow} via {Locally}
+  {Adaptive} {Fusion} of {Complementary} {Data} {Costs}.
+IEEE, pp 3344--3351
+
+\bibitem[\protect\citeauthoryear{Kiryati, Eldar \& Bruckstein}{Kiryati
+  et~al.}{1991}]{KIRYATI1991303}
+Kiryati N.,  Eldar Y.,    Bruckstein A.,  1991, Pattern Recognition, 24, 303
+
+\bibitem[\protect\citeauthoryear{Kondermann, Mester \& Garbe}{Kondermann
+  et~al.}{2008}]{Kondermann2008}
+Kondermann C.,  Mester R.,    Garbe C.,  2008, A Statistical Confidence Measure
+  for Optical Flows.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 290--301
+
+\bibitem[\protect\citeauthoryear{Kroeger, Timofte, Dai \& Van~Gool}{Kroeger
+  et~al.}{2016}]{Kroeger2016}
+Kroeger T.,  Timofte R.,  Dai D.,    Van~Gool L.,  2016, Fast Optical Flow
+  Using Dense Inverse Search.
+Springer International Publishing, Cham, pp 471--488
+
+\bibitem[\protect\citeauthoryear{Labayrade, Aubert \& Tarel}{Labayrade
+  et~al.}{2002}]{labayrade_real_2002}
+Labayrade R.,  Aubert D.,    Tarel J.~P.,  2002, in {IEEE} {Intelligent}
+  {Vehicle} {Symposium}, 2002 Vol.~2, Real time obstacle detection in
+  stereovision on non flat road geometry through "v-disparity" representation.
+pp 646--651 vol.2
+
+\bibitem[\protect\citeauthoryear{Lauze, Kornprobst \& M{\'e}min}{Lauze
+  et~al.}{2004}]{Lauze2004ACT}
+Lauze F.,  Kornprobst P.,    M{\'e}min E.,  2004 A coarse to fine multiscale
+  approach for linear least squares optical flow estimation
+
+\bibitem[\protect\citeauthoryear{Lingemann, Nüchter, Hertzberg \&
+  Surmann}{Lingemann et~al.}{2005}]{LINGEMANN2005275}
+Lingemann K.,  Nüchter A.,  Hertzberg J.,    Surmann H.,  2005, Robotics and
+  Autonomous Systems, 51, 275
+
+\bibitem[\protect\citeauthoryear{Liu, Chellappa \& Rosenfeld}{Liu
+  et~al.}{2003}]{liu_accurate_2003}
+Liu H.,  Chellappa R.,    Rosenfeld A.,  2003, IEEE Transactions on Image
+  Processing, 12, 1170
+
+\bibitem[\protect\citeauthoryear{Longuet-Higgins \& Prazdny}{Longuet-Higgins \&
+  Prazdny}{1980}]{LonguetHiggins1980TheIO}
+Longuet-Higgins H.~C.,  Prazdny K.,  1980, Proceedings of the Royal Society of
+  London. Series B, Biological sciences, 208 1173, 385
+
+\bibitem[\protect\citeauthoryear{Lu \& Liou}{Lu \& Liou}{1997}]{564122}
+Lu J.,  Liou M.~L.,  1997, IEEE Transactions on Circuits and Systems for Video
+  Technology, 7, 429
+
+\bibitem[\protect\citeauthoryear{Lu, Yang, Min \& Do}{Lu
+  et~al.}{2013}]{6619086}
+Lu J.,  Yang H.,  Min D.,    Do M.~N.,  2013, in 2013 IEEE Conference on
+  Computer Vision and Pattern Recognition Patch match filter: Efficient
+  edge-aware filtering meets randomized search for fast correspondence field
+  estimation.
+pp 1854--1861
+
+\bibitem[\protect\citeauthoryear{Lucas \& Kanade}{Lucas \&
+  Kanade}{1981}]{lucas_iterative_1981}
+Lucas B.~D.,  Kanade T.,  1981 An {Iterative} {Image} {Registration}
+  {Technique} with an {Application} to {Stereo} {Vision}.
+pp 674--679
+
+\bibitem[\protect\citeauthoryear{Mai, Gouiffès \& Bouchafa}{Mai
+  et~al.}{2017}]{visapp17}
+Mai T.~K.,  Gouiffès M.,    Bouchafa S.,  2017, in Proceedings of the 12th
+  International Joint Conference on Computer Vision, Imaging and Computer
+  Graphics Theory and Applications - Volume 6: VISAPP, (VISIGRAPP 2017) Optical
+  flow refinement using reliable flow propagation.
+pp 451--458
+
+\bibitem[\protect\citeauthoryear{Malis \& Vargas}{Malis \&
+  Vargas}{2007}]{malis:inria-00174036}
+Malis E.,  Vargas M.,  2007, Research Report RR-6303, {Deeper understanding of
+  the homography decomposition for vision-based control},
+  \verb+https://hal.inria.fr/inria-00174036+.
+{INRIA}
+
+\bibitem[\protect\citeauthoryear{Menze, Heipke \& Geiger}{Menze
+  et~al.}{2015}]{Menze2015GCPR}
+Menze M.,  Heipke C.,    Geiger A.,  2015, in German Conference on Pattern
+  Recognition (GCPR) Vol.~9358, Discrete optimization for optical flow.
+Springer International Publishing, pp 16--28
+
+\bibitem[\protect\citeauthoryear{Menze, Heipke \& Geiger}{Menze
+  et~al.}{2018}]{Menze2018JPRS}
+Menze M.,  Heipke C.,    Geiger A.,  2018, ISPRS Journal of Photogrammetry and
+  Remote Sensing (JPRS)
+
+\bibitem[\protect\citeauthoryear{Middendorf \& Nagel}{Middendorf \&
+  Nagel}{2001}]{middendorf_estimation_2001}
+Middendorf M.,  Nagel H.~H.,  2001, in Eighth {IEEE} {International}
+  {Conference} on {Computer} {Vision}, 2001. {ICCV} 2001. {Proceedings} Vol.~1,
+  Estimation and interpretation of discontinuities in optical flow fields.
+pp 178--183 vol.1
+
+\bibitem[\protect\citeauthoryear{Nagel \& Gehrke}{Nagel \&
+  Gehrke}{1998}]{nagel_spatiotemporally_1998}
+Nagel H.-H.,  Gehrke A.,  1998, in Burkhardt H.,  Neumann B.,  eds, Lecture
+  {Notes} in {Computer} {Science}No.~1407, Computer {Vision} — {ECCV}’98.
+Springer Berlin Heidelberg, pp 86--102
+
+\bibitem[\protect\citeauthoryear{Nie, Bouchafa \& Merigot}{Nie
+  et~al.}{2012}]{voting_space_coop}
+Nie Q.,  Bouchafa S.,    Merigot A.,  2012, in 2012 3rd International
+  Conference on Image Processing Theory, Tools and Applications (IPTA) Voting
+  spaces cooperation for 3d plane detection from monocular image sequences.
+pp 135--140
+
+\bibitem[\protect\citeauthoryear{Nie \& Ma}{Nie \& Ma}{2002}]{1176932}
+Nie Y.,  Ma K.-K.,  2002, IEEE Transactions on Image Processing, 11, 1442
+
+\bibitem[\protect\citeauthoryear{{Nirmal Jith O. U.}, Ramakanth \&
+  Babu}{{Nirmal Jith O. U.} et~al.}{2014}]{nirmal_jith_o._u._optical_2014}
+{Nirmal Jith O. U.} Ramakanth S.~A.,    Babu R.~V.,  2014 Optical flow based on
+  {Approximate} {Nearest} {Neighbor} {Field}.
+IEEE, pp~1--5
+
+\bibitem[\protect\citeauthoryear{Nister}{Nister}{2004}]{1288525}
+Nister D.,  2004, IEEE Transactions on Pattern Analysis and Machine
+  Intelligence, 26, 756
+
+\bibitem[\protect\citeauthoryear{Nister, Naroditsky \& Bergen}{Nister
+  et~al.}{2004}]{1315094}
+Nister D.,  Naroditsky O.,    Bergen J.,  2004, in Proceedings of the 2004 IEEE
+  Computer Society Conference on Computer Vision and Pattern Recognition, 2004.
+  CVPR 2004. Vol.~1, Visual odometry.
+pp~I--I
+
+\bibitem[\protect\citeauthoryear{Oliensis \& Genc}{Oliensis \&
+  Genc}{1999}]{790295}
+Oliensis J.,  Genc Y.,  1999, in Proceedings of the Seventh IEEE International
+  Conference on Computer Vision Vol.~2, New algorithms for two-frame structure
+  from motion.
+pp 737--744 vol.2
+
+\bibitem[\protect\citeauthoryear{{\"{O}}zyesil, Voroninski, Basri \&
+  Singer}{{\"{O}}zyesil et~al.}{2017}]{DBLP:journals/corr/OzyesilVBS17}
+{\"{O}}zyesil O.,  Voroninski V.,  Basri R.,    Singer A.,  2017, CoRR,
+  abs/1701.08493
+
+\bibitem[\protect\citeauthoryear{Plyer, Le~Besnerais \& Champagnat}{Plyer
+  et~al.}{2016}]{Plyer2016}
+Plyer A.,  Le~Besnerais G.,    Champagnat F.,  2016, Journal of Real-Time Image
+  Processing, 11, 713
+
+\bibitem[\protect\citeauthoryear{Saurer, Vasseur, Boutteau, Demonceaux,
+  Pollefeys \& Fraundorfer}{Saurer et~al.}{2017}]{saurer:hal-01466853}
+Saurer O.,  Vasseur P.,  Boutteau R.,  Demonceaux C.,  Pollefeys M.,
+  Fraundorfer F.,  2017, {IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 39, 327
+
+\bibitem[\protect\citeauthoryear{Schnabel, Wahl \& Klein}{Schnabel
+  et~al.}{2007}]{schnabel-2007-efficient}
+Schnabel R.,  Wahl R.,    Klein R.,  2007, Computer Graphics Forum, 26, 214
+
+\bibitem[\protect\citeauthoryear{Silveira, Malis \& Rives}{Silveira
+  et~al.}{2006}]{Silveira06}
+Silveira G.,  Malis E.,    Rives P.,  2006, in IEEE/RSJ Int. Conf. on
+  Intelligent Robots and Systems (IROS) Real-time robust detection of planar
+  regions in a pair of images.
+Beijing, China
+
+\bibitem[\protect\citeauthoryear{Sinclair, Blake, Smith \& Rothwell}{Sinclair
+  et~al.}{1992}]{Sinclair92}
+Sinclair D.,  Blake A.,  Smith S.,    Rothwell C.,  1992, in Hogg D.,  Boyle
+  R.,  eds, BMVC92 Planar region detection and motion recovery.
+Springer London, London, pp 59--68
+
+\bibitem[\protect\citeauthoryear{Singh, Mandal \& Basu}{Singh
+  et~al.}{2004}]{singh_robust_2004}
+Singh M.,  Mandal M.,    Basu A.,  2004, in Proceedings of the 17th
+  {International} {Conference} on {Pattern} {Recognition}, 2004. {ICPR} 2004.
+  Vol.~4, Robust {KLT} tracking with {Gaussian} and {Laplacian} of {Gaussian}
+  weighting functions.
+pp 661--664 Vol.4
+
+\bibitem[\protect\citeauthoryear{Stoll, Volz \& Bruhn}{Stoll
+  et~al.}{2013}]{stoll_joint_2013}
+Stoll M.,  Volz S.,    Bruhn A.,  2013, in 2013 {IEEE} {International}
+  {Conference} on {Image} {Processing} Joint trilateral filtering for
+  multiframe optical flow.
+pp 3845--3849
+
+\bibitem[\protect\citeauthoryear{Stone, Orchard, Chang \& Martucci}{Stone
+  et~al.}{2001}]{957286}
+Stone H.~S.,  Orchard M.~T.,  Chang E.-C.,    Martucci S.~A.,  2001, IEEE
+  Transactions on Geoscience and Remote Sensing, 39, 2235
+
+\bibitem[\protect\citeauthoryear{Sun, Roth \& Black}{Sun
+  et~al.}{2010}]{sun_secrets_2010}
+Sun D.,  Roth S.,    Black M.~J.,  2010 Secrets of optical flow estimation and
+  their principles.
+IEEE, pp 2432--2439
+
+\bibitem[\protect\citeauthoryear{Sun, Roth \& Black}{Sun
+  et~al.}{2014}]{Sun:IJCV:2014}
+Sun D.,  Roth S.,    Black M.~J.,  2014, International Journal of Computer
+  Vision (IJCV), 106, 115
+
+\bibitem[\protect\citeauthoryear{Sun, Sudderth \& Black}{Sun
+  et~al.}{2010a}]{Sun10}
+Sun D.,  Sudderth E.,    Black M.~J.,  2010a Vol.~23, Layered image motion with
+  explicit occlusions, temporal consistency, and depth ordering
+
+\bibitem[\protect\citeauthoryear{Sun, Sudderth \& Black}{Sun
+  et~al.}{2010b}]{Sun2010LayeredIM}
+Sun D.,  Sudderth E.~B.,    Black M.~J.,  2010b, in NIPS Layered image motion
+  with explicit occlusions, temporal consistency, and depth ordering
+
+\bibitem[\protect\citeauthoryear{Szeliski}{Szeliski}{2010}]{Szeliski:2010:CVA:1941882}
+Szeliski R.,  2010, Computer Vision: Algorithms and Applications, 1st edn.
+Springer-Verlag, Berlin, Heidelberg
+
+\bibitem[\protect\citeauthoryear{Torr \& Zisserman}{Torr \&
+  Zisserman}{1999}]{torr_feature_1999}
+Torr P. H.~S.,  Zisserman A.,  1999, in Vision {Algorithms}: {Theory} and
+  {Practice} Feature {Based} {Methods} for {Structure} and {Motion}
+  {Estimation}.
+Springer, Berlin, Heidelberg, pp 278--294
+
+\bibitem[\protect\citeauthoryear{Valgaerts, Bruhn \& Weickert}{Valgaerts
+  et~al.}{2008}]{valgaerts_variational_2008}
+Valgaerts L.,  Bruhn A.,    Weickert J.,  2008, in Pattern {Recognition} A
+  {Variational} {Model} for the {Joint} {Recovery} of the {Fundamental}
+  {Matrix} and the {Optical} {Flow}.
+Springer, Berlin, Heidelberg, pp 314--324
+
+\bibitem[\protect\citeauthoryear{Vogel, Roth \& Schindler}{Vogel
+  et~al.}{2014}]{Vogel2014}
+Vogel C.,  Roth S.,    Schindler K.,  2014, View-Consistent 3D Scene Flow
+  Estimation over Multiple Frames.
+Springer International Publishing, Cham, pp 263--278
+
+\bibitem[\protect\citeauthoryear{Vogel, Schindler \& Roth}{Vogel
+  et~al.}{2013}]{6751281}
+Vogel C.,  Schindler K.,    Roth S.,  2013, in 2013 IEEE International
+  Conference on Computer Vision Piecewise rigid scene flow.
+pp 1377--1384
+
+\bibitem[\protect\citeauthoryear{Vogel, Schindler \& Roth}{Vogel
+  et~al.}{2015}]{Vogel2015}
+Vogel C.,  Schindler K.,    Roth S.,  2015, International Journal of Computer
+  Vision, 115, 1
+
+\bibitem[\protect\citeauthoryear{Wang, Cai, Yi \& Li}{Wang
+  et~al.}{2012}]{WangSoA11}
+Wang Z.~L.,  Cai B.~G.,  Yi F.~Z.,    Li M.,  2012, in Lee G.,  ed., Advances
+  in Automation and Robotics, Vol. 2 Reviews on planar region detection for
+  visual navigation of mobile robot under unknown environment.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 593--601
+
+\bibitem[\protect\citeauthoryear{Weckesser, Dillmann, Elbs \& Hampel}{Weckesser
+  et~al.}{1995}]{525835}
+Weckesser P.,  Dillmann R.,  Elbs M.,    Hampel S.,  1995, in Proceedings 1995
+  IEEE/RSJ International Conference on Intelligent Robots and Systems. Human
+  Robot Interaction and Cooperative Robots Vol.~1, Multiple sensor processing
+  for high-precision navigation and environmental modeling with a mobile robot.
+pp 453--458 vol.1
+
+\bibitem[\protect\citeauthoryear{Wedel, Cremers, Pock \& Bischof}{Wedel
+  et~al.}{2009}]{wedel_structure-_2009}
+Wedel A.,  Cremers D.,  Pock T.,    Bischof H.,  2009 Structure- and
+  motion-adaptive regularization for high accuracy optic flow.
+IEEE, pp 1663--1668
+
+\bibitem[\protect\citeauthoryear{Wedel, Pock, Zach, Bischof \& Cremers}{Wedel
+  et~al.}{2009}]{hutchison_improved_2009}
+Wedel A.,  Pock T.,  Zach C.,  Bischof H.,    Cremers D.,  2009, in Hutchison
+  D.,  Kanade T.,  Kittler J.,  Kleinberg J.~M.,  Mattern F.,  Mitchell J.~C.,
+  Naor M.,  Nierstrasz O.,  Pandu~Rangan C.,  Steffen B.,  Sudan M.,
+  Terzopoulos D.,  Tygar D.,  Vardi M.~Y.,  Weikum G.,  Cremers D.,  Rosenhahn
+  B.,  Yuille A.~L.,   Schmidt F.~R.,  eds, , Vol.~5604, Statistical and
+  {Geometrical} {Approaches} to {Visual} {Motion} {Analysis}.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp 23--45
+
+\bibitem[\protect\citeauthoryear{Weinzaepfel, Revaud, Harchaoui \&
+  Schmid}{Weinzaepfel et~al.}{2013}]{weinzaepfel:hal-00873592}
+Weinzaepfel P.,  Revaud J.,  Harchaoui Z.,    Schmid C.,  2013, in {IEEE
+  Intenational Conference on Computer Vision (ICCV)} {DeepFlow: Large
+  displacement optical flow with deep matching}.
+Sydney, Australia
+
+\bibitem[\protect\citeauthoryear{Weiss}{Weiss}{1997}]{weiss_smoothness_1997}
+Weiss Y.,  1997, in , 1997 {IEEE} {Computer} {Society} {Conference} on
+  {Computer} {Vision} and {Pattern} {Recognition}, 1997. {Proceedings}
+  Smoothness in layers: {Motion} segmentation using nonparametric mixture
+  estimation.
+pp 520--526
+
+\bibitem[\protect\citeauthoryear{Wulff \& Black}{Wulff \&
+  Black}{2015}]{Wulff_2015_CVPR}
+Wulff J.,  Black M.~J.,  2015, in The IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR) Efficient sparse-to-dense optical flow estimation
+  using a learned basis and layers
+
+\bibitem[\protect\citeauthoryear{Wulff, Sevilla-Lara \& Black}{Wulff
+  et~al.}{2017}]{Wulff_CVPR_2017}
+Wulff J.,  Sevilla-Lara L.,    Black M.~J.,  2017, in IEEE Conf. on Computer
+  Vision and Pattern Recognition (CVPR) Optical flow in mostly rigid scenes
+
+\bibitem[\protect\citeauthoryear{Xu, Jia \& Matsushita}{Xu
+  et~al.}{2010}]{xu_motion_2010}
+Xu L.,  Jia J.,    Matsushita Y.,  2010 Motion detail preserving optical flow
+  estimation.
+IEEE, pp 1293--1300
+
+\bibitem[\protect\citeauthoryear{Xu, Oja \& Kultanen}{Xu
+  et~al.}{1990}]{XU1990331}
+Xu L.,  Oja E.,    Kultanen P.,  1990, Pattern Recognition Letters, 11, 331
+
+\bibitem[\protect\citeauthoryear{Yacoob \& Davis}{Yacoob \&
+  Davis}{1997}]{yacoob_temporal_1997}
+Yacoob Y.,  Davis L.~S.,  1997, in , 1997 {IEEE} {Computer} {Society}
+  {Conference} on {Computer} {Vision} and {Pattern} {Recognition}, 1997.
+  {Proceedings} Temporal multi-scale models for flow and acceleration.
+pp 921--927
+
+\bibitem[\protect\citeauthoryear{{Yan Niu}, Dick \& Brooks}{{Yan Niu}
+  et~al.}{2012}]{yan_niu_locally_2012}
+{Yan Niu} Dick A.,    Brooks M.,  2012, IEEE Transactions on Image Processing,
+  21, 1573
+
+\bibitem[\protect\citeauthoryear{Yang \& Li}{Yang \&
+  Li}{2015}]{yang_dense_2015}
+Yang J.,  Li H.,  2015 Dense, accurate optical flow estimation with piecewise
+  parametric model.
+IEEE, pp 1019--1027
+
+\bibitem[\protect\citeauthoryear{yves Bouguet}{yves
+  Bouguet}{2000}]{Bouguet00pyramidalimplementation}
+yves Bouguet J.,  2000, Intel Corporation, Microprocessor Research Labs
+
+\bibitem[\protect\citeauthoryear{Zhang \& Hanson}{Zhang \&
+  Hanson}{1996}]{Zhang963dreconstruction}
+Zhang Z.,  Hanson A.~R.,  1996, in In ARPA Image Understanding Workshop 3d
+  reconstruction based on homography mapping.
+pp 0249--6399
+
+\bibitem[\protect\citeauthoryear{Zhou, Brown, Snavely \& Lowe}{Zhou
+  et~al.}{2017}]{zhou2017unsupervised}
+Zhou T.,  Brown M.,  Snavely N.,    Lowe D.~G.,  2017, in CVPR Unsupervised
+  learning of depth and ego-motion from video
+
+\end{thebibliography}

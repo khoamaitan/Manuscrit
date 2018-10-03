@@ -1,0 +1,148 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+A level-1 auxiliary file: preface.aux
+The style file: mn2e.bst
+Database file #1: Introduction.bib
+Database file #2: Optical_Flow.bib
+I was expecting an "="---line 182 of file Optical_Flow.bib
+ :  
+ :  year = {1998},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 360 of file Optical_Flow.bib
+ : @article{black_robust_1996-1
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 883 of file Optical_Flow.bib
+ : @conference{Guney2016ACCV
+ :                          ,
+I'm skipping whatever remains of this entry
+Database file #3: Structure_from_motion.bib
+I was expecting a `,' or a `}'---line 306 of file Structure_from_motion.bib
+ :  
+ :  year={2008}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Database file #4: MFS.bib
+Repeated entry---line 54 of file MFS.bib
+ : @inproceedings{6906584
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 83 of file MFS.bib
+ : @article{Horn1988
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Bebis06"
+Warning--I didn't find a database entry for ""
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Jin, Zhi; Tillo, Tammam; Cheng, Fei" for entry Jin-2014
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Jin, Zhi; Tillo, Tammam; Cheng, Fei" for entry Jin-2014
+while executing---line 1184 of file mn2e.bst
+Too many commas in name 1 of "Jin, Zhi; Tillo, Tammam; Cheng, Fei" for entry Jin-2014
+while executing---line 1184 of file mn2e.bst
+Warning--empty year in Aires2008
+Warning--empty year in alvarez_reliable_nodate
+Warning--empty year in bab-hadiashar_robust_1998
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Too many commas in name 1 of "Bebis, George; Boyle, Richard; Parvin, Bahram; Koracin, Darko; Remagnino, Paolo; Nefian, Ara; Meenakshisundaram, Gopi; Pascucci, Valerio; Zara, Jiri; Molineros, Jose; Theisel, Holger; Malzbender, Tom" for entry Bebis-2006
+while executing---line 1260 of file mn2e.bst
+Warning--empty publisher in Bebis-2006
+Warning--empty booktitle in brox_large_2009
+Warning--can't use both author and editor fields in Bruhn2006
+Warning--empty booktitle in chen_large_2013
+Warning--empty booktitle in farneback_fast_2000
+Warning--can't use both author and editor fields in Farnebäck2003
+Warning--empty booktitle in forssen_maximally_2007
+Too many commas in name 1 of "Jin, Zhi; Tillo, Tammam; Cheng, Fei" for entry Jin-2014
+while executing---line 1260 of file mn2e.bst
+Warning--empty booktitle in Jin-2014
+Warning--empty booktitle in kaiming_he_computing_2012
+Warning--empty booktitle in kim_optical_2013
+Warning--can't use both author and editor fields in Kondermann2008
+Warning--can't use both author and editor fields in Kroeger2016
+Warning--empty booktitle in Lauze2004ACT
+Warning--empty booktitle in lucas_iterative_1981
+Warning--empty booktitle in nirmal_jith_o._u._optical_2014
+Warning--empty booktitle in sun_secrets_2010
+Warning--empty booktitle in Sun10
+Warning--can't use both author and editor fields in Vogel2014
+Warning--empty booktitle in wedel_structure-_2009
+Warning--empty booktitle in xu_motion_2010
+Warning--empty booktitle in yang_dense_2015
+(There were 50 error messages)

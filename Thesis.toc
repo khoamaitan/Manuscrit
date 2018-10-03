@@ -1,0 +1,82 @@
+\contentsline {chapter}{Declaration}{ii}{chapter*.1}
+\contentsline {chapter}{Abstract}{iii}{chapter*.2}
+\contentsline {chapter}{Acknowledgements}{iv}{chapter*.3}
+\contentsline {chapter}{Declaration of Authorship}{v}{dummy.4}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{vii}{dummy.5}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{viii}{dummy.6}
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{xii}{dummy.8}
+\contentsline {chapter}{List of Tables}{xvi}{dummy.10}
+\contentsline {chapter}{Abbreviations}{xviii}{dummy.12}
+\contentsline {chapter}{Physical Constants}{xix}{dummy.15}
+\contentsline {chapter}{Symbols}{xx}{dummy.18}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}General Introduction}{1}{chapter.21}
+\contentsline {section}{\numberline {1.1}Context}{1}{section.22}
+\contentsline {section}{\numberline {1.2}Contribution}{3}{section.24}
+\contentsline {section}{\numberline {1.3}Thesis outline}{3}{section.25}
+\contentsline {chapter}{\numberline {2}Optical flow refinement using iterative propagation under color, proximity and flow reliability constraints}{5}{chapter.26}
+\contentsline {section}{\numberline {2.1}Introduction}{5}{section.27}
+\contentsline {section}{\numberline {2.2}Local estimation}{8}{section.33}
+\contentsline {section}{\numberline {2.3}Global estimation}{11}{section.48}
+\contentsline {section}{\numberline {2.4}Qualification of estimation}{15}{section.66}
+\contentsline {subsection}{\numberline {2.4.1}The motion local uniformity}{16}{subsection.69}
+\contentsline {subsection}{\numberline {2.4.2}Temporal evolution of the residues}{18}{subsection.75}
+\contentsline {subsection}{\numberline {2.4.3}The mixture reliability score}{19}{subsection.80}
+\contentsline {section}{\numberline {2.5}The propagation process}{20}{section.82}
+\contentsline {subsection}{\numberline {2.5.1}Sparse optical flow correction at seeds level}{21}{subsection.84}
+\contentsline {subsection}{\numberline {2.5.2}Dense optical flow correction at pixel level}{22}{subsection.89}
+\contentsline {section}{\numberline {2.6}Implementation}{22}{section.90}
+\contentsline {section}{\numberline {2.7}Experiments}{23}{section.92}
+\contentsline {subsection}{\numberline {2.7.1}Study on the reliability criteria}{24}{subsection.94}
+\contentsline {subsection}{\numberline {2.7.2}Refined optical flow}{26}{subsection.97}
+\contentsline {subsubsection}{\numberline {2.7.2.1}Comparison of seeds selection strategies and reliability criteria}{26}{subsubsection.98}
+\contentsline {subsubsection}{\numberline {2.7.2.2}Comparison with existing methods }{29}{subsubsection.104}
+\contentsline {chapter}{\numberline {3}From motion to structure: $uv$-velocity, an optical flow registration for planar segmentation}{32}{chapter.108}
+\contentsline {section}{\numberline {3.1}Introduction}{32}{section.109}
+\contentsline {section}{\numberline {3.2}Segmentation of planes in a monocular dynamic system}{33}{section.110}
+\contentsline {section}{\numberline {3.3}Main assumptions and model}{36}{section.112}
+\contentsline {section}{\numberline {3.4}$c$-velocity}{38}{section.119}
+\contentsline {subsection}{\numberline {3.4.1}Voting space of $c$-velocity}{40}{subsection.123}
+\contentsline {section}{\numberline {3.5}$uv$-velocity on pure translational movement}{44}{section.128}
+\contentsline {section}{\numberline {3.6}$uv$-velocity: extended planes and additional rotation movement}{49}{section.136}
+\contentsline {subsection}{\numberline {3.6.1}Extended planes}{49}{subsection.137}
+\contentsline {subsection}{\numberline {3.6.2}$uv$-velocity with additional rotational movement}{50}{subsection.139}
+\contentsline {section}{\numberline {3.7}Analysis of voting spaces}{55}{section.148}
+\contentsline {subsection}{\numberline {3.7.1}Pure translational movement with three main planes}{55}{subsection.149}
+\contentsline {paragraph}{$c$-velocity voting space.}{55}{section*.150}
+\contentsline {paragraph}{$uv$-velocity voting space.}{56}{section*.152}
+\contentsline {paragraph}{Pixel Segmentation. }{58}{section*.163}
+\contentsline {subsection}{\numberline {3.7.2}With additional rotational movement and ex-planes}{61}{subsection.167}
+\contentsline {section}{\numberline {3.8}Experiments}{64}{section.176}
+\contentsline {subsection}{\numberline {3.8.1}Simulation}{64}{subsection.177}
+\contentsline {subsubsection}{\numberline {3.8.1.1}$c$-velocity}{64}{subsubsection.179}
+\contentsline {subsubsection}{\numberline {3.8.1.2}uv-velocity}{65}{subsubsection.181}
+\contentsline {subsection}{\numberline {3.8.2}Real Sequences}{69}{subsection.190}
+\contentsline {subsubsection}{\numberline {3.8.2.1}Experiments for a translational ego-motion.}{71}{subsubsection.191}
+\contentsline {subsubsection}{\numberline {3.8.2.2} Experiments for translation and rotation}{74}{subsubsection.203}
+\contentsline {subsection}{\numberline {3.8.3}Parametric versus voting method}{76}{subsection.205}
+\contentsline {section}{\numberline {3.9}Conclusion}{79}{section.207}
+\contentsline {chapter}{\numberline {4}From structure to motion}{80}{chapter.208}
+\contentsline {section}{\numberline {4.1}Optical flow estimation based on geometric information}{80}{section.209}
+\contentsline {subsection}{\numberline {4.1.1}Introduction}{80}{subsection.210}
+\contentsline {subsection}{\numberline {4.1.2}Adaptation of model to geometric information}{82}{subsection.212}
+\contentsline {paragraph}{Numerical solution:}{82}{section*.216}
+\contentsline {subsection}{\numberline {4.1.3}Experiments}{84}{subsection.225}
+\contentsline {subsection}{\numberline {4.1.4}Conclusion and Perspective}{88}{subsection.233}
+\contentsline {section}{\numberline {4.2}Visual odometry by homography from fast segmentation}{89}{section.235}
+\contentsline {subsection}{\numberline {4.2.1}Introduction}{89}{subsection.236}
+\contentsline {subsection}{\numberline {4.2.2}Overviews of geometric information on multi-view image}{90}{subsection.237}
+\contentsline {paragraph}{Single camera view:}{90}{figure.caption.239}
+\contentsline {paragraph}{Multi-camera view:}{91}{section*.243}
+\contentsline {paragraph}{Projection of planar surface:}{92}{section*.247}
+\contentsline {paragraph}{Homography between images:}{92}{section*.249}
+\contentsline {paragraph}{Homography Decomposition:}{93}{section*.253}
+\contentsline {subsection}{\numberline {4.2.3}Homography Estimation}{95}{subsection.264}
+\contentsline {subsection}{\numberline {4.2.4}Experiments}{97}{subsection.270}
+\contentsline {chapter}{\numberline {5}Conclusion}{101}{chapter.281}
+\vspace {2em}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{102}{dummy.282}
